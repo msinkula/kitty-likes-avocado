@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^kittylikesavocado\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.kittylikesavocado\.com$
+
